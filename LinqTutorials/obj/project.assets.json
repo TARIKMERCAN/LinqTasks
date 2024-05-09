@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mercan/Downloads/LinqTasks/LinqTutorials/LinqTutorials.csproj",
+      "projectUniqueName": "/Users/mercan/Desktop/LinqTasks/LinqTutorials/LinqTutorials.csproj",
       "projectName": "LinqTutorials",
-      "projectPath": "/Users/mercan/Downloads/LinqTasks/LinqTutorials/LinqTutorials.csproj",
+      "projectPath": "/Users/mercan/Desktop/LinqTasks/LinqTutorials/LinqTutorials.csproj",
       "packagesPath": "/Users/mercan/.nuget/packages/",
-      "outputPath": "/Users/mercan/Downloads/LinqTasks/LinqTutorials/obj/",
+      "outputPath": "/Users/mercan/Desktop/LinqTasks/LinqTutorials/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mercan/.nuget/NuGet/NuGet.Config"
@@ -73,7 +73,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/Users/mercan/.dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/RuntimeIdentifierGraph.json"
       }
     }
   }

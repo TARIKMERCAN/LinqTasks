@@ -1,0 +1,16 @@
+/Users/mercan/Desktop/LinqTasks/LinqTutorials/bin/Debug/net5.0/LinqTutorials
+/Users/mercan/Desktop/LinqTasks/LinqTutorials/bin/Debug/net5.0/LinqTutorials.deps.json
+/Users/mercan/Desktop/LinqTasks/LinqTutorials/bin/Debug/net5.0/LinqTutorials.runtimeconfig.json
+/Users/mercan/Desktop/LinqTasks/LinqTutorials/bin/Debug/net5.0/LinqTutorials.runtimeconfig.dev.json
+/Users/mercan/Desktop/LinqTasks/LinqTutorials/bin/Debug/net5.0/LinqTutorials.dll
+/Users/mercan/Desktop/LinqTasks/LinqTutorials/bin/Debug/net5.0/LinqTutorials.pdb
+/Users/mercan/Desktop/LinqTasks/LinqTutorials/obj/Debug/net5.0/LinqTutorials.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mercan/Desktop/LinqTasks/LinqTutorials/obj/Debug/net5.0/LinqTutorials.AssemblyInfoInputs.cache
+/Users/mercan/Desktop/LinqTasks/LinqTutorials/obj/Debug/net5.0/LinqTutorials.AssemblyInfo.cs
+/Users/mercan/Desktop/LinqTasks/LinqTutorials/obj/Debug/net5.0/LinqTutorials.csproj.CoreCompileInputs.cache
+/Users/mercan/Desktop/LinqTasks/LinqTutorials/obj/Debug/net5.0/LinqTutorials.sourcelink.json
+/Users/mercan/Desktop/LinqTasks/LinqTutorials/obj/Debug/net5.0/LinqTutorials.dll
+/Users/mercan/Desktop/LinqTasks/LinqTutorials/obj/Debug/net5.0/refint/LinqTutorials.dll
+/Users/mercan/Desktop/LinqTasks/LinqTutorials/obj/Debug/net5.0/LinqTutorials.pdb
+/Users/mercan/Desktop/LinqTasks/LinqTutorials/obj/Debug/net5.0/LinqTutorials.genruntimeconfig.cache
+/Users/mercan/Desktop/LinqTasks/LinqTutorials/obj/Debug/net5.0/ref/LinqTutorials.dll
