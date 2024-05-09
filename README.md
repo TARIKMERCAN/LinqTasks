@@ -1,1 +1,1 @@
-Sadly I will update my final version after deadline
+I tried to update my project from terminal but failed then lost files, sry for the delay
